@@ -17,7 +17,19 @@
 # ----------------------------------------------------------------------------------
 
 
-my_name = "Rohan"
-print("before:", my_name)
-my_name= "Lucky"
-print("after:", my_name)
+# my_name = "Rohan"
+# print("before:", my_name)
+# my_name= "Lucky"
+# print("after:", my_name)
+
+
+# --------------------------------------------------------------------------------------------
+
+# MUTUBLE => In This case we can change any specific element as well as entire element . 
+# example => list, set, dictionary.
+
+# INMUTUBLE => In this case we can change any specific element but we can change entire element.
+# example => string, tuple.
+
+# ---------------------------------------------------------------------------------------------------
+

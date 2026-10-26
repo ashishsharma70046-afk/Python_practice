@@ -48,7 +48,6 @@ def computer():
 
 computer()
 
-
 print("\nExample 6: Library Information")
 
 def library():
